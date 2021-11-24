@@ -1,0 +1,362 @@
+[
+    {
+        "TenBien": "Biển số P.124a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p124a.jpg",
+        "MoTa": "Cấm quay đầu xe"
+    },
+    {
+        "TenBien": "Biển số P.124b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p124b.jpg",
+        "MoTa": "Cấm quay đầu xe"
+    },
+    {
+        "TenBien": "Biển số P.101",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p101.jpg",
+        "MoTa": "Đường cấm"
+    },
+    {
+        "TenBien": "Biển số P.102",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p102.jpg",
+        "MoTa": "Cấm đi ngược chiều"
+    },
+    {
+        "TenBien": "Biển số P.103a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p103a.jpg",
+        "MoTa": "Cấm xe ôtô"
+    },
+    {
+        "TenBien": "Biển số P.103c",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p103c.jpg",
+        "MoTa": "Cấm xe ôtô rẽ trái"
+    },
+    {
+        "TenBien": "Biển số P.104",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p104.jpg",
+        "MoTa": "Cấm xe máy"
+    },
+    {
+        "TenBien": "Biển số P.105",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p105.jpg",
+        "MoTa": "Cấm xe ôtô và xe máy"
+    },
+    {
+        "TenBien": "Biển số P.106a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p106a.jpg",
+        "MoTa": "Cấm xe tải"
+    },
+    {
+        "TenBien": "Biển số P.115",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p115.jpg",
+        "MoTa": "Hạn chế tải trọng toàn bộ xe"
+    },
+    {
+        "TenBien": "Biển số P.107",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p107.jpg",
+        "MoTa": "Cấm xe khách và xe tải"
+    },
+    {
+        "TenBien": "Biển số P.108a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p108a.jpg",
+        "MoTa": "Cấm xe kéo rơ-móc"
+    },
+    {
+        "TenBien": "Biển số P.109",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p109.jpg",
+        "MoTa": "Cấm máy kéo"
+    },
+    {
+        "TenBien": "Biển số P.110a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p110a.jpg",
+        "MoTa": "Cấm xe đạp"
+    },
+    {
+        "TenBien": "Biển số P.111a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p111a.jpg",
+        "MoTa": "Cấm xe gắn máy"
+    },
+    {
+        "TenBien": "Biển số P.112",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Cam/p112.jpg",
+        "MoTa": "Cấm người đi bộ"
+    },
+    {
+        "TenBien": "Biển số I.401",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/401.jpg",
+        "MoTa": "Đường ưu tiên"
+    },
+    {
+        "TenBien": "Biển số I.402",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/402.jpg",
+        "MoTa": "Hết đường ưu tiên"
+    },
+    {
+        "TenBien": "Biển số I.406",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/406.jpg",
+        "MoTa": "Được ưu tiên qua đường hẹp"
+    },
+    {
+        "TenBien": "Biển số I.407a",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/407a.jpg",
+        "MoTa": "Đường một chiều"
+    },
+    {
+        "TenBien": "Biển số I.408",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/408.jpg",
+        "MoTa": "Nơi đỗ xe"
+    },
+    {
+        "TenBien": "Biển số I.409",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/409.jpg",
+        "MoTa": "Chỗ quay xe"
+    },
+    {
+        "TenBien": "Biển số I.410",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/410.jpg",
+        "MoTa": "Khu vực quay xe"
+    },
+    {
+        "TenBien": "Biển số I.411",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/411.jpg",
+        "MoTa": "Hướng đi theo vạch kẻ đường"
+    },
+    {
+        "TenBien": "Biển số I.412",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/412.jpg",
+        "MoTa": "Làn dành cho xe khách"
+    },
+    {
+        "TenBien": "Biển số I.413a",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/413a.jpg",
+        "MoTa": "Đường có làn dành cho xe khách"
+    },
+    {
+        "TenBien": "Biển số I.419",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/419.jpg",
+        "MoTa": "Chỉ dẫn địa giới"
+    },
+    {
+        "TenBien": "Biển số I.422a",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/422a.jpg",
+        "MoTa": "Di tích lịch sử"
+    },
+    {
+        "TenBien": "Biển số I.414a",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/414a.jpg",
+        "MoTa": "Chỉ hướng đường"
+    },
+    {
+        "TenBien": "Biển số I.425",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/425.jpg",
+        "MoTa": "Bệnh viện"
+    },
+    {
+        "TenBien": "Biển số I.426",
+        "Hinh": " https: //duogwas.github.io/Bien_Bao_Chi_Dan/401.jpg",
+        "MoTa": "Trạm cấp cứu"
+    },
+    {
+        "TenBien": "Biển số R.122",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r122.jpg",
+        "MoTa": "Dừng lại"
+    },
+    {
+        "TenBien": "Biển số R.301a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301a.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.301b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301b.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.301c",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301c.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.301d",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301d.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.301e",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301e.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.302a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r302a.jpg",
+        "MoTa": "Hướng đi vòng chướng ngại vật"
+    },
+    {
+        "TenBien": "Biển số R.302b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r302b.jpg",
+        "MoTa": "Hướng đi vòng chướng ngại vật"
+    },
+    {
+        "TenBien": "Biển số R.303",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r303.jpg",
+        "MoTa": "Nơi giao nhau chạy theo vòng xuyến"
+    },
+    {
+        "TenBien": "Biển số R.304",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r304.jpg",
+        "MoTa": "Đường dành cho xe thô sơ"
+    },
+    {
+        "TenBien": "Biển số R.305",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r305.jpg",
+        "MoTa": "Đường dành cho người đi bộ"
+    },
+    {
+        "TenBien": "Biển số R.306",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r306.jpg",
+        "MoTa": "Tốc độ tối thiểu cho phép"
+    },
+    {
+        "TenBien": "Biển số R.307",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r307.jpg",
+        "MoTa": "Hết hạn chế tốc độ tối thiểu"
+    },
+    {
+        "TenBien": "Biển số R.301f",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301f.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số R.301h",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Hieu_Lenh/r301h.jpg",
+        "MoTa": "Hướng đi phải theo"
+    },
+    {
+        "TenBien": "Biển số W.201a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/201a.jpg",
+        "MoTa": "Chỗ ngoặt nguy hiểm"
+    },
+    {
+        "TenBien": "Biển số W.201b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/201b.jpg",
+        "MoTa": "Chỗ ngoặt nguy hiểm"
+    },
+    {
+        "TenBien": "Biển số W.202",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/202.jpg",
+        "MoTa": "Nhiều chỗ ngoặt nguy hiểm liên tiếp"
+    },
+    {
+        "TenBien": "Biển số W.203a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/203a.jpg",
+        "MoTa": "Đường bị thu hẹp"
+    },
+    {
+        "TenBien": "Biển số W.203b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/203b.jpg",
+        "MoTa": "Đường bị thu hẹp"
+    },
+    {
+        "TenBien": "Biển số W.203c",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/203c.jpg",
+        "MoTa": "Đường bị thu hẹp"
+    },
+    {
+        "TenBien": "Biển số W.204",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/204.jpg",
+        "MoTa": "Đường hai chiều"
+    },
+    {
+        "TenBien": "Biển số W.205a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/205a.jpg",
+        "MoTa": "Đường giao nhau"
+    },
+    {
+        "TenBien": "Biển số W.206",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/206.jpg",
+        "MoTa": "Giao nhau chạy theo vòng xuyến"
+    },
+    {
+        "TenBien": "Biển số W.207a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/207a.jpg",
+        "MoTa": "Giao nhau với đường không ưu tiên"
+    },
+    {
+        "TenBien": "Biển số W.207b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/207b.jpg",
+        "MoTa": "Giao nhau với đường không ưu tiên"
+    },
+    {
+        "TenBien": "Biển số W.205b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/205b.jpg",
+        "MoTa": "Đường giao nhau"
+    },
+    {
+        "TenBien": "Biển số W.208",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/208.jpg",
+        "MoTa": "Giao nhau với đường ưu tiên"
+    },
+    {
+        "TenBien": "Biển số W.209",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/209.jpg",
+        "MoTa": "Giao nhau có tín hiệu đèn"
+    },
+    {
+        "TenBien": "Biển số W.210",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Nguy_Hiem/210.jpg",
+        "MoTa": "Giao nhau với đường sắt có rào chắn"
+    },
+    {
+        "TenBien": "Biển số S.506a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s506a.jpg",
+        "MoTa": "Hướng đường ưu tiên"
+    },
+    {
+        "TenBien": "Biển số S.505a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s505a.jpg",
+        "MoTa": "Loại xe chịu hiệu lực của biển báo"
+    },
+    {
+        "TenBien": "Biển số S.504",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s504.jpg",
+        "MoTa": "Làn đường"
+    },
+    {
+        "TenBien": "Biển số S.503a",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503a.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.503b",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503b.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.503c",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503c.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.503d",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503d.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.503e",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503e.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.503f",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s503f.jpg",
+        "MoTa": "Hướng tác dụng của biển"
+    },
+    {
+        "TenBien": "Biển số S.502",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s502.jpg",
+        "MoTa": "Khoảng cách đến đối tượng báo hiệu"
+    },
+    {
+        "TenBien": "Biển số S.501",
+        "Hinh": "https://duogwas.github.io/Bien_Bao_Phu/s501.jpg",
+        "MoTa": "Phạm vi tác dụng của biển"
+    }
+]
